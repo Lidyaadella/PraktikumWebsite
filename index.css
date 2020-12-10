@@ -1,0 +1,130 @@
+body{
+
+	background:linear-gradient(to right,#F8D37B,#FFFFFF);
+	color: #674512;
+	line-height: 20px;
+	background-attachment: fixed;
+}
+
+.atas{
+
+	width: 250px;
+	position: relative;
+	top: -20px;
+	right: 8px }
+
+.Orang{
+
+	width: 350px;
+	position: relative;
+	top: 150px;
+	right: 55px}
+
+.Buku{
+
+	width: 350px;
+	position: relative;
+	top: 250px;
+	right: 200px}
+
+.bawah{
+	width: 350px;
+	position: relative;
+	top: 382px;
+	right: 970px}
+
+#Login{
+
+	width:100px;
+	height: 50px;
+	background: #EFBF6A;
+	border-radius: 8px;
+	text-align: center;
+	line-height: 50px;
+	position: absolute;
+	left: 1078px;
+	bottom: 590px}
+#AboutUs{
+	font-size: 18px;
+	font-family: "Times New Roman";
+	position: absolute;
+	left: 970px;
+	bottom: 583px}
+
+#Contact{
+	font-size: 18px;
+	font-family: "Times New Roman";
+	position: absolute;
+	left: 885px;
+	bottom: 583px}
+
+#Covid{
+	font-size: 18px;
+	font-family: "Times New Roman";
+	position: absolute;
+	left: 810px;
+	bottom: 582px}
+
+#Home{
+	font-size: 18px;
+	font-family: "Times New Roman";
+	position: absolute;
+	left: 735px;
+	bottom: 582px}
+
+#Easy{
+	font-size: 40px;
+	font-family: 'Arial';
+	position: absolute;
+	top: 200px;
+	left: 80%}
+
+#Com{
+	font-size: 40px;
+	font-family: 'Arial';
+	position: absolute;
+	top: 270px;
+	left: 88%}
+
+.Paragraf{
+	font-size: 18px;
+	font-family: 'Calibri';
+	line-height: 15px;
+	position: absolute;
+	top: 350px;
+	left: 67%
+	}
+
+.Paragraf_2{
+	font-size: 18px;
+	font-family: 'Calibri';
+	line-height: 20px;
+	position: absolute;
+	top: 375px;
+	left: 73%}
+
+.Paragraf_3{
+	font-size: 18px;
+	font-family:'Calibri';
+	line-height: 23px;
+	position: absolute;
+	top: 402px;
+	left: 73%}
+
+.Paragraf_4{
+	font-size: 18px;
+	font-family: 'Calibri';
+	line-height: 25px;
+	position: absolute;
+	top: 430px;
+	left: 79%}
+
+.Login2{
+	text-decoration: none;
+	color:#462402;
+	font-size: 18px;}
+
+.Signup2{
+	text-decoration: none;
+	color:#462402;
+	font-size: 18px;}
